@@ -1,5 +1,5 @@
 {
-    "name": "acacha/helpers",
+    "name": "dieter91/helpers",
     "type": "library",
     "description": "Extra helpers for Laravel",
     "keywords": [
@@ -7,13 +7,13 @@
         "helpers",
         "laravel"
     ],
-    "homepage": "https://github.com/acacha/helpers",
+    "homepage": "https://github.com/dieter91/helpers",
     "license": "MIT",
     "authors": [
         {
-            "name": "Sergi Tur Badenas",
-            "email": "sergiturbadenas@gmail.com",
-            "homepage": "https://github.com/acacha",
+            "name": "Dieter Vrancken",
+            "email": "dieter.v91@gmail.com",
+            "homepage": "https://github.com/dieter91",
             "role": "Developer"
         }
     ],
